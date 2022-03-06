@@ -24,6 +24,7 @@ Esse projeto foi desenvolvido durante uma live coding na [Twitch.tv](https://www
 Dependências usadas no projeto:
 -  [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Learn/CSS)
+-  [JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JAVASCRIPT)
 
 ## Crédito
 
